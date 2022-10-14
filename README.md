@@ -21,11 +21,11 @@ Be creative and unique! Projects can explore use cases in web3, DeFi, DAOs, Dapp
 
 
 
-##Challenge Requirement:
+## Challenge Requirement:
 Projects must be built with AvengerDao api to be considered, but can be combined with any other available tools, ecosystems and tokens.
 
 
-##Judging Criteria
+## Judging Criteria
 Judges will be onsite to interview and explore ideas, implementation and projects. Projects will be graded on a 1-10 scale using the following criteria and may change slightly before the event.
 
 * User Experience
