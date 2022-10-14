@@ -5,7 +5,7 @@
 
 
 * **AvengerDao Website** - [link](https://www.avengerdao.org/) 
-* **Building on BNB** - Helpful links and resources - [link](https://github.com/ilya0/BNB_HackBoston_Workshop/blob/main/Helpful%20links%20and%20Resources%20-%20Easy%20A%20_%20Boston%20Hacks%20-%20Hacker%20Resource.pdf) 
+* **Building on BNB** - Helpful links and resources - [link](https://github.com/ilya0/BNB_HackTx_workshop/blob/main/Helpful%20links%20and%20Documents%20.pdf) 
 * **Building on BNB** - BNB Chain Tutorials - [link](https://github.com/bnb-chain/bnb-chain-tutorial) 
 * **BNB Docs** - BNB Chain Official documentation - [link](https://docs.bnbchain.org/docs/bnbIntro)
 * **BNB Discord** - BNB Discord - [link](https://discord.gg/TPSWv2Cs4T)
